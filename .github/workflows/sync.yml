@@ -1,0 +1,21 @@
+name: Sync Remote Gist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Remote Gist Content
+        run: |
+          curl -s "https://githubusercontent.com" -o current_gist.txt
+
+      - name: Update My Backup Gist
+        env:
+          GH_TOKEN: ${{ secrets.GIST_TOKEN }}
+          DEST_GIST_ID: "4c75e3b41f6cec1773051e7467353e27"
+        run: |
+          gh gist edit "$DEST_GIST_ID" -f "backup_gist.txt=current_gist.txt"
