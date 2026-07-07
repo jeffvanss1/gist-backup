@@ -18,6 +18,6 @@ jobs:
       - name: Update My Backup Gist
         env:
           GH_TOKEN: ${{ secrets.GIST_TOKEN }}
+          DEST_GIST_ID: "4c75e3b41f6cec1773051e7467353e27"
         run: |
-          DEST_GIST_ID=$(gh gist list -L 1 | awk '{print $1}')
           gh gist edit "$DEST_GIST_ID" -f "backup_gist.txt=current_gist.txt"
