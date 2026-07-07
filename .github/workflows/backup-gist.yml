@@ -1,3 +1,23 @@
-bat: ERROR TERMINATION at parse_conf.c:1611
-Config error: Cannot open config file "/etc/bacula/bat.conf": Permission denied
+name: Backup Gist
 
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: mkdir -p backups
+      - name: Download gist
+        run: curl -L "https://gist.githubusercontent.com/BestestCreature/53b495e6b30595283967c4817e33cfc0/raw/c936b11f716af48073dc56397d00bb1225747f6c" -o backups/gist-backup.txt
+      - name: Commit backup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add backups/gist-backup.txt
+          git diff --cached --quiet || git commit -m "Backup gist"
+          git push
