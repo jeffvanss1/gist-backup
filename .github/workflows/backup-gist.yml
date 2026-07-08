@@ -3,7 +3,7 @@ name: Backup Gist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # Check every hour
+    - cron: '0 * * * *' # Runs every hour
 
 permissions:
   contents: write
@@ -14,44 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download and Prepend Timestamp
+      - name: Download Gist and Prepend Timestamp
         run: |
           mkdir -p backups
+          # 1. Write the fresh timestamp to the file
+          echo "Backup Timestamp: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > backups/gist-backup.txt
+          echo "==================================================" >> backups/gist-backup.txt
           
-          # 1. Download current Gist to a temporary file
-          curl -sL "https://gist.githubusercontent.com/BestestCreature/53b495e6b30595283967c4817e33cfc0/raw/" -o temp_gist.txt
-          
-          # 2. Check if download succeeded and is not empty
-          if [ -s temp_gist.txt ]; then
-            CHANGED=1
-            
-            # If a previous backup exists, compare Gist content (ignoring the top 2 header lines)
-            if [ -f backups/gist-backup.txt ]; then
-              tail -n +3 backups/gist-backup.txt > temp_old_content.txt
-              if diff -q temp_old_content.txt temp_gist.txt > /dev/null; then
-                CHANGED=0 # Content is identical, do not update
-              fi
-              rm -f temp_old_content.txt
-            fi
-            
-            # 3. If content is new, overwrite backup with new timestamp + content
-            if [ $CHANGED -eq 1 ]; then
-              echo "Gist changed! Updating backup with new timestamp."
-              echo "Backup Timestamp: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > backups/gist-backup.txt
-              echo "==================================================" >> backups/gist-backup.txt
-              cat temp_gist.txt >> backups/gist-backup.txt
-            else
-              echo "Gist is identical. No update needed."
-            fi
-          else
-            echo "Error: Failed to download Gist or Gist is empty."
-            exit 1
-          fi
-          rm -f temp_gist.txt
+          # 2. Append the latest Gist content
+          curl -sL "https://gist.githubusercontent.com/BestestCreature/53b495e6b30595283967c4817e33cfc0/raw/" >> backups/gist-backup.txt
 
-      - name: Commit backup if changed
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add backups/gist-backup.txt
-          git diff --cached --quiet || (git commit -m "Update gist backup with timestamp" && git push)
+          git commit -m "Update gist backup with timestamp"
+          git push
