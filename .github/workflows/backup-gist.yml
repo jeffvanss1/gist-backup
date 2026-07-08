@@ -17,7 +17,8 @@ jobs:
         run: |
           mkdir -p backups
           TIMESTAMP=$(date -u +"%Y%m%d-%H%M%S")
-          curl -L "https://gist.githubusercontent.com/BestestCreature/53b495e6b30595283967c4817e33cfc0/raw/c936b11f716af48073dc56397d00bb1225747f6c" \
+          # This URL never changes, but always downloads the latest version
+          curl -L "https://gist.githubusercontent.com/BestestCreature/53b495e6b30595283967c4817e33cfc0/raw/" \
             -o "backups/gist-backup-${TIMESTAMP}.txt"
       - name: Commit backup
         run: |
