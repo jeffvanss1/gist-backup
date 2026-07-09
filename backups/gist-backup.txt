@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-07-09 08:56:24 UTC
+Backup Timestamp: 2026-07-09 17:26:11 UTC
 ==================================================
 ---Cinema MAIN---;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime
 Anime;https://player.twitch.tv/?channel=5hirakuwamakiri&parent=twitch.tv;Moopod
@@ -15,3 +15,4 @@ yappan;https://player.kick.com/father_jimmy?autoplay=true;funyappan
 Horror;https://player.kick.com/cabinofhorrors?autoplay=true;spooky
 jamesbond;https://player.kick.com/bamesjond00?autoplay=true;007
 STrek;https://player.kick.com/ncc6767-zoomermeme?autoplay=true;scotty
+ALF;https://player.twitch.tv/?channel=alf&parent=twitch.tv;cateater
