@@ -1,7 +1,7 @@
-Backup Timestamp: 2026-07-11 14:37:50 UTC
+Backup Timestamp: 2026-07-11 18:07:49 UTC
 ==================================================
 ---Cinema MAIN---;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime
-Anime;https://player.twitch.tv/?channel=mitsumidakamizuka&parent=twitch.tv;moopod
+NotAVGN;https://player.kick.com/letthegoodtimesroll?autoplay=true;totally not avgn
 Cinema Creature;https://player.kick.com/emiruspajamabottoms?autoplay=true;Movies
 Cinema III;https://player.kick.com/nrthmd?autoplay=true;Movies
 Cinema IV;https://player.angelthump.com/?channel=batpearson;Movies
