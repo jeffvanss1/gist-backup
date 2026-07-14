@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-07-14 16:56:52 UTC
+Backup Timestamp: 2026-07-14 20:42:52 UTC
 ==================================================
 ---Cinema MAIN---;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime
 Anime;https://player.twitch.tv/?channel=mochimurawakaneko&parent=twitch.tv;moopod
@@ -7,6 +7,7 @@ Cinema II;https://player.kick.com/illerflix?autoplay=true;Cinema II
 Cinema III;https://player.kick.com/nrthmd?autoplay=true;Movies
 Cinema IV;https://player.angelthump.com/?channel=batpearson;Movies
 Sopranos;https://player.kick.com/evolernie?autoplay=true;The Sopranos
+BB/BCS;https://player.angelthump.com/?channel=finger_solid;waltuh
 GoT;https://player.angelthump.com/?channel=lykiri;Game of Thrones
 Kaiju;https://player.kick.com/daikaijutv?autoplay=true;Kaiju
 Forsen;https://player.twitch.tv/?channel=forsen&parent=twitch.tv;Forsen
