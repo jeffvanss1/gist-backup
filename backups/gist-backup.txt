@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-07-17 09:18:58 UTC
+Backup Timestamp: 2026-07-17 15:01:03 UTC
 ==================================================
 ---Cinema MAIN---;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime
 Anime;https://player.twitch.tv/?channel=mochimurawakaneko&parent=twitch.tv;moopod
@@ -6,6 +6,7 @@ Cinema Creature;https://player.kick.com/nl-solidus?autoplay=true;Cinema Creature
 Cinema II;https://player.kick.com/illerflix?autoplay=true;Cinema II
 Cinema III;https://player.kick.com/nrthmd?autoplay=true;Movies
 Cinema IV;https://player.angelthump.com/?channel=batpearson;Movies
+House;https://player.angelthump.com/?channel=doctorremyhadley;HouseMD
 Sopranos;https://player.kick.com/evolernie?autoplay=true;The Sopranos
 BB/BCS;https://player.angelthump.com/?channel=finger_solid;waltuh
 GoT;https://player.angelthump.com/?channel=lykiri;Game of Thrones
@@ -18,4 +19,3 @@ jamesbond;https://player.kick.com/bamesjond00?autoplay=true;007
 STrek;https://player.kick.com/ncc6767-zoomermeme?autoplay=true;scotty
 RetroAnime;https://player.twitch.tv/?channel=retrocrush_tv&parent=twitch.tv;oldanime
 YuGiOh;https://player.twitch.tv/?channel=yugioh_duelmonsters&parent=twitch.tv;heartofthecards
-House;https://player.angelthump.com/?channel=doctorremyhadley;HouseMD
