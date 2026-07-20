@@ -1,6 +1,6 @@
-Backup Timestamp: 2026-07-20 16:17:07 UTC
+Backup Timestamp: 2026-07-20 20:55:30 UTC
 ==================================================
----Cinema MAIN---;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime
+MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;https://cdn.7tv.app/emote/64af57542b9b9a7b4ba02d27/2x.webp
 Anime;https://player.twitch.tv/?channel=0hanuma1risagi&parent=twitch.tv;moopod
 Cinema Creature;https://player.kick.com/nl-solidus?autoplay=true;Cinema Creature
 Cinema II;https://player.kick.com/illerflix?autoplay=true;Cinema II
