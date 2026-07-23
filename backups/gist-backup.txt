@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-07-23 16:16:10 UTC
+Backup Timestamp: 2026-07-23 20:39:39 UTC
 ==================================================
 MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;https://cdn.7tv.app/emote/64af57542b9b9a7b4ba02d27/2x.webp
 Anime;https://player.twitch.tv/?channel=0hanuma1risagi&parent=twitch.tv;moopod
