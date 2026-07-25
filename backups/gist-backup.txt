@@ -1,20 +1,19 @@
-Backup Timestamp: 2026-07-25 18:09:52 UTC
+Backup Timestamp: 2026-07-25 22:13:00 UTC
 ==================================================
-MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime
-Anime;https://player.twitch.tv/?channel=0hanuma1risagi&parent=twitch.tv;moopod
+MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;//cdn.7tv.app/emote/01FQZ83WR80000QXHG0DRS8BN1/1x.webp
+Anime;https://player.twitch.tv/?channel=4sasakayuchi&parent=twitch.tv;moopod;https://cdn.7tv.app/emote/01JT0WXE9K6M4Q0VVXH0SN2Y10/4x.webp
 Cinema Creature;https://player.kick.com/nl-solidus?autoplay=true;Cinema Creature
 Cinema II;https://player.kick.com/illerflix?autoplay=true;Cinema II
 Cinema III;https://player.kick.com/nrthmd?autoplay=true;Movies
 Cinema IV;https://player.angelthump.com/?channel=batpearson;Movies
-House;https://player.angelthump.com/?channel=doctorremyhadley;HouseMD
-Sopranos;https://player.kick.com/evolernie?autoplay=true;The Sopranos
+House;https://player.angelthump.com/?channel=doctorremyhadley;HouseMD;//cdn.7tv.app/emote/01H3YDH9R80003PH84VNH1W954/1x.webp
+Sopranos;https://player.kick.com/evolernie?autoplay=true;The Sopranos;https://cdn.7tv.app/emote/01FX30CPR0000E970J8M04QH0N/2x.webp
 BB/BCS;https://player.angelthump.com/?channel=finger_solid;waltuh
-GoT;https://player.angelthump.com/?channel=lykiri;Game of Thrones
-Kaiju;https://player.kick.com/daikaijutv?autoplay=true;Kaiju
+GoT;https://player.angelthump.com/?channel=lykiri;Game of Thrones;https://cdn.7tv.app/emote/01H8SW7ZA8000C254KW7R30DPS/2x.webp
+Kaiju;https://player.kick.com/daikaijutv?autoplay=true;Kaiju;https://cdn.7tv.app/emote/01KP9C2NVTR2ZYWTB968YD1GH9/2x.webp
 Forsen;https://player.twitch.tv/?channel=forsen&parent=twitch.tv;Forsen
 yappan;https://player.kick.com/father_jimmy?autoplay=true;funyappan
-Horror;https://player.kick.com/cabinofhorrors?autoplay=true;spooky
+Horror;https://player.kick.com/cabinofhorrors?autoplay=true;spooky;//cdn.7tv.app/emote/01GQGJQ5A0000ERT2YB38Q6BTK/1x.webp
 STrek;https://player.kick.com/ncc6767-zoomermeme?autoplay=true;scotty
 RetroAnime;https://player.twitch.tv/?channel=retrocrush_tv&parent=twitch.tv;oldanime
-YuGiOh;https://player.twitch.tv/?channel=yugioh_duelmonsters&parent=twitch.tv;heartofthecards
-TakeaSeat;https://player.kick.com/peoplevpreds?autoplay=true;TakeaSeat
+YuGiOh;https://player.twitch.tv/?channel=yugioh_duelmonsters&parent=twitch.tv;yugi;//cdn.7tv.app/emote/01FVE7CYDR000B05D8JC8TF2QD/1x.webp
