@@ -1,7 +1,7 @@
-Backup Timestamp: 2026-07-26 15:47:07 UTC
+Backup Timestamp: 2026-07-26 20:16:01 UTC
 ==================================================
 MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;//cdn.7tv.app/emote/01FQZ83WR80000QXHG0DRS8BN1/1x.webp
-Anime;https://player.twitch.tv/?channel=4sasakayuchi&parent=twitch.tv;moopod;https://cdn.7tv.app/emote/01JT0WXE9K6M4Q0VVXH0SN2Y10/4x.webp
+Anime;https://player.twitch.tv/?channel=5hirayamayosagi&parent=twitch.tv;moopod;https://cdn.7tv.app/emote/01JT0WXE9K6M4Q0VVXH0SN2Y10/4x.webp
 Cinema Creature;https://player.kick.com/nl-solidus?autoplay=true;Cinema Creature
 Cinema II;https://player.kick.com/illerflix?autoplay=true;Cinema II
 Cinema III;https://player.kick.com/nrthmd?autoplay=true;Movies
