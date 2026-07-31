@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-07-31 18:18:28 UTC
+Backup Timestamp: 2026-07-31 20:18:12 UTC
 ==================================================
 MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;//cdn.7tv.app/emote/01FQZ83WR80000QXHG0DRS8BN1/1x.webp
 Anime;https://player.twitch.tv/?channel=5hirayamayosagi&parent=twitch.tv;moopod;https://cdn.7tv.app/emote/01JT0WXE9K6M4Q0VVXH0SN2Y10/4x.webp
@@ -18,3 +18,4 @@ Horror;https://player.kick.com/cabinofhorrors?autoplay=true;spooky;//cdn.7tv.app
 STrek;https://player.kick.com/ncc6767-zoomermeme?autoplay=true;scotty
 RetroAnime;https://player.twitch.tv/?channel=retrocrush_tv&parent=twitch.tv;oldanime
 YuGiOh;https://player.twitch.tv/?channel=yugioh_duelmonsters&parent=twitch.tv;yugi;//cdn.7tv.app/emote/01FVE7CYDR000B05D8JC8TF2QD/1x.webp
+Perkele;https://player.kick.com/slothua?autoplay=true;Perkele
