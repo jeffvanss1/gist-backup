@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-08-02 02:36:25 UTC
+Backup Timestamp: 2026-08-02 05:55:03 UTC
 ==================================================
 MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;//cdn.7tv.app/emote/01FQZ83WR80000QXHG0DRS8BN1/1x.webp
 Anime;https://player.twitch.tv/?channel=5hirayamayosagi&parent=twitch.tv;moopod;https://cdn.7tv.app/emote/01JT0WXE9K6M4Q0VVXH0SN2Y10/4x.webp
@@ -13,9 +13,10 @@ BB/BCS;https://player.angelthump.com/?channel=finger_solid;waltuh
 GoT;https://player.angelthump.com/?channel=lykiri;Game of Thrones;https://cdn.7tv.app/emote/01H8SW7ZA8000C254KW7R30DPS/2x.webp
 Kaiju;https://player.kick.com/daikaijutv?autoplay=true;Kaiju;https://cdn.7tv.app/emote/01KP9C2NVTR2ZYWTB968YD1GH9/2x.webp
 Forsen;https://player.twitch.tv/?channel=forsen&parent=twitch.tv;Forsen
+KOQ;https://player.kick.com/vcr-show1?autoplay=true;KOQ;https://cdn.7tv.app/emote/01HBA1BE70000EY75ATHMFDMJD/2x.avif
 yappan;https://player.kick.com/father_jimmy?autoplay=true;funyappan
 Horror;https://player.kick.com/cabinofhorrors?autoplay=true;spooky;//cdn.7tv.app/emote/01GQGJQ5A0000ERT2YB38Q6BTK/1x.webp
 STrek;https://player.kick.com/ncc6767-zoomermeme?autoplay=true;scotty
 RetroAnime;https://player.twitch.tv/?channel=retrocrush_tv&parent=twitch.tv;oldanime
-YuGiOh;https://player.twitch.tv/?channel=yugioh_duelmonsters&parent=twitch.tv;yugi;//cdn.7tv.app/emote/01FVE7CYDR000B05D8JC8TF2QD/1x.webp
+YuGiOh;https://player.twitch.tv/?channel=yugioh_duelmonsters&parent=twitch.tv;yugi;//cdn.7tv.app/emote/01F6VTDTG0000FVMPQTYYVDHDF/1x.webp
 Perkele;https://player.kick.com/slothua?autoplay=true;Perkele
