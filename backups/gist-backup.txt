@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-08-15 01:05:06 UTC
+Backup Timestamp: 2026-08-15 02:49:34 UTC
 ==================================================
 dota;https://player.twitch.tv/?channel=dota2ti&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01H6W2HY000006R5YZYMEJZ67C/4x.webp
 dota b stream;https://player.twitch.tv/?channel=dota2ti_2&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01G4677HKR000487MWX9F93B9C/4x.webp
@@ -10,6 +10,7 @@ Cinema III;https://player.kick.com/illerverse?autoplay=true;Cinema III
 Cinema IV;https://player.angelthump.com/?channel=batpearson;Movies
 Cinema V;https://player.kick.com/neverdiepool?autoplay=true;Cinema V
 Cinema VI;https://player.kick.com/nrthmd?autoplay=true;Cinema VI
+xasmur;https://player.kick.com/xasmur?autoplay=true;xasmur;//cdn.7tv.app/emote/01G3VS661G000576R8TFCGGDWT/1x.webp
 House;https://player.angelthump.com/?channel=doctorremyhadley;HouseMD;//cdn.7tv.app/emote/01H3YDH9R80003PH84VNH1W954/1x.webp
 Gordo;https://www.youtube.com/watch?v=bhglcmxDXIw;Gordo;https://cdn.7tv.app/emote/01GG0FNZM00006KHVY23Y34073/4x.webp 
 BB/BCS;https://player.angelthump.com/?channel=finger_solid;waltuh;https://cdn.7tv.app/emote/01G04HCAB80006F862AJYVMDHP/2x.webp
