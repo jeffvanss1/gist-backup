@@ -1,4 +1,28 @@
-Backup Timestamp: 2026-08-17 13:37:03 UTC
+Backup Timestamp: 2026-08-17 14:24:28 UTC
 ==================================================
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+dota;https://player.twitch.tv/?channel=dota2ti&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01H6W2HY000006R5YZYMEJZ67C/4x.webp
+dota b stream;https://player.twitch.tv/?channel=dota2ti_2&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01G4677HKR000487MWX9F93B9C/4x.webp
+MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;//cdn.7tv.app/emote/01FQZ83WR80000QXHG0DRS8BN1/1x.webp
+Anime;https://player.twitch.tv/?channel=kazegata1rikiko&parent=twitch.tv;moopod;https://cdn.7tv.app/emote/01JT0WXE9K6M4Q0VVXH0SN2Y10/4x.webp
+Cinema Creature;https://player.kick.com/nl-solidus?autoplay=true;Cinema Creature
+Cinema II;https://player.kick.com/illerflix?autoplay=true;Cinema II
+Cinema III;https://player.kick.com/illerverse?autoplay=true;Cinema III
+Cinema IV;https://player.angelthump.com/?channel=batpearson;Movies
+Cinema V;https://player.kick.com/neverdiepool?autoplay=true;Cinema V
+Cinema VI;https://player.kick.com/nrthmd?autoplay=true;Cinema VI
+xasmur;https://player.kick.com/xasmur?autoplay=true;xasmur;//cdn.7tv.app/emote/01G3VS661G000576R8TFCGGDWT/1x.webp
+House;https://player.angelthump.com/?channel=doctorremyhadley;HouseMD;//cdn.7tv.app/emote/01H3YDH9R80003PH84VNH1W954/1x.webp
+Gordo;https://www.youtube.com/watch?v=bhglcmxDXIw;Gordo;https://cdn.7tv.app/emote/01GG0FNZM00006KHVY23Y34073/4x.webp 
+BB/BCS;https://player.angelthump.com/?channel=finger_solid;waltuh;https://cdn.7tv.app/emote/01G04HCAB80006F862AJYVMDHP/2x.webp
+GoT;https://player.angelthump.com/?channel=lykiri;Game of Thrones;https://cdn.7tv.app/emote/01H8SW7ZA8000C254KW7R30DPS/2x.webp
+Kaiju;https://player.kick.com/daikaijutv?autoplay=true;Kaiju;https://cdn.7tv.app/emote/01KP9C2NVTR2ZYWTB968YD1GH9/2x.webp
+Forsen;https://player.twitch.tv/?channel=forsen&parent=twitch.tv;Forsen
+KOQ;https://player.kick.com/vcr-show1?autoplay=true;KOQ;https://cdn.7tv.app/emote/01HBA1BE70000EY75ATHMFDMJD/2x.avif
+yappan;https://player.kick.com/father_jimmy?autoplay=true;funyappan
+Toons;https://player.kick.com/vcr-classictoons?autoplay=true;Toons;https://cdn.7tv.app/emote/01GG6P1KMR0001KHKMNDFYY0W8/2x.webp
+RetroAnime;https://player.twitch.tv/?channel=retrocrush_tv&parent=twitch.tv;oldanime
+YuGiOh;https://player.twitch.tv/?channel=yugioh_duelmonsters&parent=twitch.tv;yugi;//cdn.7tv.app/emote/01F6VTDTG0000FVMPQTYYVDHDF/1x.webp
+Perkele;https://player.kick.com/slothua?autoplay=true;Perkele
+Sloppa;https://player.angelthump.com/?channel=slothowo;Sloppa
+Calico;https://player.angelthump.com/?channel=calicofus;porol
+Porror;https://player.angelthump.com/?channel=ppkkkp;Horror;//cdn.7tv.app/emote/01GQGJQ5A0000ERT2YB38Q6BTK/1x.webp
