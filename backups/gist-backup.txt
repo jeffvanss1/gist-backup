@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-08-20 20:24:27 UTC
+Backup Timestamp: 2026-08-20 21:24:41 UTC
 ==================================================
 dota;https://player.twitch.tv/?channel=dota2ti&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01H6W2HY000006R5YZYMEJZ67C/4x.webp
 dota b stream;https://player.twitch.tv/?channel=dota2ti_2&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01G4677HKR000487MWX9F93B9C/4x.webp
@@ -17,12 +17,11 @@ BB/BCS;https://player.angelthump.com/?channel=finger_solid;waltuh;https://cdn.7t
 GoT;https://player.angelthump.com/?channel=lykiri;Game of Thrones;https://cdn.7tv.app/emote/01H8SW7ZA8000C254KW7R30DPS/2x.webp
 Kaiju;https://player.kick.com/daikaijutv?autoplay=true;Kaiju;https://cdn.7tv.app/emote/01KP9C2NVTR2ZYWTB968YD1GH9/2x.webp
 Forsen;https://player.twitch.tv/?channel=forsen&parent=twitch.tv;Forsen
-KOQ;https://player.kick.com/vcr-show1?autoplay=true;KOQ;https://cdn.7tv.app/emote/01HBA1BE70000EY75ATHMFDMJD/2x.avif
 yappan;https://player.kick.com/father_jimmy?autoplay=true;funyappan
-Toons;https://player.kick.com/vcr-classictoons?autoplay=true;Toons;https://cdn.7tv.app/emote/01GG6P1KMR0001KHKMNDFYY0W8/2x.webp
 RetroAnime;https://player.twitch.tv/?channel=retrocrush_tv&parent=twitch.tv;oldanime
 YuGiOh;https://player.twitch.tv/?channel=yugioh_duelmonsters&parent=twitch.tv;yugi;//cdn.7tv.app/emote/01F6VTDTG0000FVMPQTYYVDHDF/1x.webp
 Perkele;https://player.kick.com/slothua?autoplay=true;Perkele
 Sloppa;https://player.angelthump.com/?channel=slothowo;Sloppa
 Calico;https://player.angelthump.com/?channel=calicofus;porol
 Porror;https://player.angelthump.com/?channel=ppkkkp;Horror;//cdn.7tv.app/emote/01GQGJQ5A0000ERT2YB38Q6BTK/1x.webp
+Seinfeld;https://watchseinfeld.net/?ch=1;nosoupforyou
