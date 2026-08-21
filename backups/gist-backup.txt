@@ -1,5 +1,6 @@
-Backup Timestamp: 2026-08-21 09:33:32 UTC
+Backup Timestamp: 2026-08-21 10:27:08 UTC
 ==================================================
+Seinfeld;https://watchseinfeld.net/?ch=1;nosoupforyou;https://cdn.7tv.app/emote/01FFDR4NA80007P57XYW0BH9P9/4x.webp
 dota;https://player.twitch.tv/?channel=dota2ti&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01H6W2HY000006R5YZYMEJZ67C/4x.webp
 dota b stream;https://player.twitch.tv/?channel=dota2ti_2&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01G4677HKR000487MWX9F93B9C/4x.webp
 MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;//cdn.7tv.app/emote/01FQZ83WR80000QXHG0DRS8BN1/1x.webp
@@ -24,4 +25,3 @@ Perkele;https://player.kick.com/slothua?autoplay=true;Perkele
 Sloppa;https://player.angelthump.com/?channel=slothowo;Sloppa
 Calico;https://player.angelthump.com/?channel=calicofus;porol
 Porror;https://player.angelthump.com/?channel=ppkkkp;Horror;//cdn.7tv.app/emote/01GQGJQ5A0000ERT2YB38Q6BTK/1x.webp
-Seinfeld;https://watchseinfeld.net/?ch=1;nosoupforyou
