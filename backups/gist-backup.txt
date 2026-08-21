@@ -1,7 +1,6 @@
-Backup Timestamp: 2026-08-21 14:31:58 UTC
+Backup Timestamp: 2026-08-21 15:30:03 UTC
 ==================================================
 Seinfeld;https://watchseinfeld.net/?ch=1;nosoupforyou;https://cdn.7tv.app/emote/01FFDR4NA80007P57XYW0BH9P9/4x.webp
-japanese michael jackson;https://www.youtube.com/watch?v=xpbd0vdwnkg;uta
 dota;https://player.twitch.tv/?channel=dota2ti&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01H6W2HY000006R5YZYMEJZ67C/4x.webp
 dota b stream;https://player.twitch.tv/?channel=dota2ti_2&parent=twitch.tv;doto;https://cdn.7tv.app/emote/01G4677HKR000487MWX9F93B9C/4x.webp
 MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;//cdn.7tv.app/emote/01FQZ83WR80000QXHG0DRS8BN1/1x.webp
