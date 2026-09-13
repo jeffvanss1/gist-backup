@@ -1,4 +1,4 @@
-Backup Timestamp: 2026-09-12 23:43:28 UTC
+Backup Timestamp: 2026-09-13 03:08:38 UTC
 ==================================================
 Seinfeld;https://watchseinfeld.net/?ch=1;nosoupforyou;https://cdn.7tv.app/emote/01FFDR4NA80007P57XYW0BH9P9/4x.webp
 MAIN;https://player.angelthump.com/?channel=krichure;Movies, Shows and Anime;//cdn.7tv.app/emote/01FQZ83WR80000QXHG0DRS8BN1/1x.webp
@@ -7,7 +7,6 @@ Cinema Creature;https://player.kick.com/nl-solidus?autoplay=true;Cinema Creature
 Cinema IV;https://player.angelthump.com/?channel=batpearson;Movies
 Cinema VI;https://player.kick.com/nrthmd?autoplay=true;Cinema VI
 xasmur;https://player.kick.com/xasmur?autoplay=true;xasmur;//cdn.7tv.app/emote/01G3VS661G000576R8TFCGGDWT/1x.webp
-Unc Cartoons;https://www.youtube.com/watch?v=400k2skoeh4;FeelsOldMan
 House;https://player.angelthump.com/?channel=doctorremyhadley;HouseMD;//cdn.7tv.app/emote/01H3YDH9R80003PH84VNH1W954/1x.webp
 BB/BCS;https://player.angelthump.com/?channel=finger_solid;waltuh;https://cdn.7tv.app/emote/01G04HCAB80006F862AJYVMDHP/2x.webp
 GoT;https://player.angelthump.com/?channel=lykiri;Game of Thrones;https://cdn.7tv.app/emote/01H8SW7ZA8000C254KW7R30DPS/2x.webp
